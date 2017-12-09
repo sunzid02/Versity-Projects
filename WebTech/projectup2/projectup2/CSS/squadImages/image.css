@@ -1,0 +1,331 @@
+*{
+  margin: 0;
+
+}
+
+h1{
+
+  color:white;
+  width: 80%;
+  word-spacing: 5px;
+  font-size: 50px;
+  font-weight: bold;
+  float: left;
+  margin-top: 25;
+
+}
+
+h2{
+  color:white;
+  text-align: center;
+  width: 250px;
+  background-color:#2d004d;
+  word-spacing: 5px;
+  font-size: 50px;
+  font-weight:400;
+  margin-top: 40px;
+  margin-left: 800px;
+  border-radius: 5px 20px 5px 20px;
+}
+
+h3{
+  color:white;
+  text-align: center;
+  width: 190px;
+  background-color: #500000;
+
+  word-spacing: 5px;
+  font-size: 40px;
+  font-weight:200;
+  margin-top: 50px;
+  margin-left: 51px;
+  border-radius: 5px 20px 5px 20px;
+  padding: 5px 25px;
+}
+
+/*.................Top logo design part Starts.........*/
+.logo {
+  height: 100px;
+  width: 100%;
+  background-color:#2d004d;
+}
+
+.logo img {
+  float: left;
+  margin-top: 5;
+
+}
+/*.................Top logo design part Ends.........*/
+
+
+/*.............Real madrid background-image starts*/
+body{
+  background-image:url("real madrid.jpg");
+  background-size: cover;
+  background-color:#2d004d;
+
+}
+/*.............Real madrid background-image ends*/
+
+
+
+/*.................Real Madird squad starts........................*/
+
+.realMadrid1 {
+  width: 100%;
+  height:320px ;
+
+
+}
+
+.individualImage:hover {
+    border: 15px solid #282C34;
+}
+
+.realMadrid1 img {
+    float: left;
+    width: 200px;
+}
+
+.realMadridPad {
+  padding: 25px;
+  text-align: center;
+  font-size:25px;
+  color: white;
+  background-color: #2d004d;
+  border-radius: 30px 30px 55px 55px;
+}
+
+.individualImage {
+  width: 200px;
+  height: 280px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 20px;
+  border: 10px solid #888;
+  border-radius: 30px 30px 70px 70px;
+}
+#navas {
+  margin-left: 51px;
+
+}
+/*....................................................................*/
+
+.realMadrid2 {
+  margin-top: 0px;
+  width: 100%;
+  height: 320px;
+
+
+
+}
+
+.individualImage2:hover {
+    border: 15px solid #282C34;
+}
+
+.realMadrid2 img {
+    float: left;
+    width: 200px;
+
+}
+
+.realMadridPad2 {
+  padding: 25px;
+  text-align: center;
+  font-size:25px;
+  color: white;
+  background-color: #2d004d;
+    border-radius: 30px 30px 55px 55px;
+}
+.individualImage2{
+  width: 200px;
+  height: 280px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 10px;
+  border: 10px solid #888;
+  border-radius: 30px 30px 70px 70px;;
+}
+#marcelo {
+  margin-left: 51px;
+
+}
+
+/*.......................................................*/
+
+.realMadrid3 {
+  margin-top: 10px;
+  width: 100%;
+  height: 320px;
+}
+
+.individualImage3:hover {
+    border: 15px solid #282C34;
+}
+
+.realMadrid3 img {
+    float: left;
+    width: 200px;
+
+}
+
+.realMadridPad3 {
+  padding: 25px;
+  text-align: center;
+  font-size:25px;
+  color: white;
+  background-color: #2d004d;
+    border-radius: 30px 30px 55px 55px;
+}
+
+.individualImage3{
+  width: 200px;
+  height: 280px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 10px;
+  border: 10px solid #888;
+  border-radius: 30px 30px 70px 70px;
+}
+#isco {
+  margin-left: 51px;
+
+}
+/*..............................................*/
+
+.realMadrid4{
+  margin-top: 10px;
+  width: 100%;
+  height: 320px;
+
+}
+
+.individualImage4:hover {
+    border: 15px solid #282C34;
+}
+
+.realMadrid4 img {
+    float: left;
+    width: 200px;
+
+}
+
+.realMadridPad4 {
+  padding: 25px;
+  text-align: center;
+  font-size:25px;
+  color: white;
+  background-color: #2d004d;
+    border-radius: 30px 30px 55px 55px;
+}
+
+.individualImage4{
+  width: 200px;
+  height: 280px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 10px;
+  border: 10px solid #888;
+  border-radius: 30px 30px 70px 70px;;
+}
+#mayoral {
+  margin-left: 51px;
+
+}
+
+/*........................................................*/
+
+
+.realMadrid5{
+  margin-top: 10px;
+  width: 100%;
+  height: 320px;
+
+
+}
+
+.individualImage5:hover {
+    border: 15px solid #282C34;
+}
+
+.realMadrid5 img {
+    float: left;
+    width: 200px;
+
+}
+
+.realMadridPad5 {
+  padding: 25px;
+  text-align: center;
+  font-size:25px;
+  color: white;
+  background-color: #2d004d;
+    border-radius: 30px 30px 55px 55px;
+}
+
+.individualImage5{
+  width: 200px;
+  height: 280px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 10px;
+  border: 10px solid #888;
+  border-radius: 30px 30px 70px 70px;;
+}
+#coaches {
+  margin-left: 51px;
+}
+
+
+
+/*.................Real Madird squad ends........................*/
+
+
+
+
+/*..................Upper Image slide...................*/
+
+#container {
+  position: relative;
+  width: 50%;
+  width: 200px;
+  height: 280px;
+}
+
+.image {
+
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 100%;
+  height:0;
+  transition: .5s ease;
+}
+
+#container:hover .overlay {
+  bottom: 0;
+  height: 100%;
+  border-radius: 0px 0px 50px 50px;
+}
+
+.text {
+  white-space: nowrap;
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+/*..................Upper Image slide ends..............*/
